@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpencerGerontzos
-- 👀 I’m currently interested in solving combinatorial optimization problems  
+- 👀 I’m currently interested in solving any problems  
 - 💞️ I’m looking to collaborate with anybody :)
 - 📫 How to reach me: Spencergerontzos@icloud.com
 
